@@ -18,7 +18,7 @@ public class School {
     public School() {
     }
 
-    // Other constructors, if needed
+
 
     public Long getId() {
         return id;
